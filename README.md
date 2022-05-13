@@ -1,14 +1,14 @@
 Hi 👋 My name is dheeraj reddy kanaparthy
 =========================================
 
-data science trainee
+Data science trainee
 --------------------
 
 I have been working on data science projects for the past 6 months and I am a trainee at innomatics research labs, Hyderabad. I have experience of 1 year in Vodafone as a graduate engineer trainee where I worked on different IT technical support projects.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dheerajreddykanaparthy397@gmail.com](mailto:dheerajreddykanaparthy397@gmail.com)
-* 🧠  I'm learning Data science,analytics python and SQL Excel
+* 🧠  I'm learning Data analytics ,Data science, python, SQL,Excel,Machine learning,Computer vision ,NLP,Deep learning
 * 🤝  I'm open to collaborating on any exciting data science projects which will solve real world problems
 * ⚡  Data excites me more than anything
 
